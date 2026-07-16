@@ -25,7 +25,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 	<screenshot>https://raw.githubusercontent.com/nextcloud/integration_matrix/main/img/screenshot2.jpg</screenshot>
 	<screenshot>https://raw.githubusercontent.com/nextcloud/integration_matrix/main/img/screenshot3.jpg</screenshot>
 	<dependencies>
-		<nextcloud min-version="33" max-version="34"/>
+		<nextcloud min-version="33" max-version="35"/>
 	</dependencies>
 	<settings>
 		<admin>OCA\Matrix\Settings\Admin</admin>
