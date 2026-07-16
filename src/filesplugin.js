@@ -25,7 +25,7 @@ import {
 	resultToNode,
 } from '@nextcloud/files/dav'
 import { subscribe } from '@nextcloud/event-bus'
-import ElementIcon from '../img/app.svg'
+import ElementIcon from '../img/app.svg?raw'
 
 import { createApp } from 'vue'
 
