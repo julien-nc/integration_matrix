@@ -11,6 +11,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## 1.2.0 – 2026-07-21
+
+### Changed
+
+- Switch to vite, update dependencies, fix eslint, fix raw svg import and fix CI @julien-nc [#60](https://github.com/nextcloud/integration_matrix/pull/60)
+- Bump max Nextcloud version to 35 @julien-nc
+
+### Fixed
+
+- Fix psalm action @julien-nc
+
 ## 1.1.0 – 2026-05-06
 
 ### Changed
